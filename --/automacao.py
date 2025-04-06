@@ -21,3 +21,5 @@ pyautogui.PAUSE = 0.5 #semrpe dps de cada comando <pyautogui> ele vai fazer uma 
 
 pyautogui.moveTo(x=-1103, y=395, duration=0.4)
 pyautogui.click()
+
+pyautogui.scroll() # numero negativo - baixo, positivo - cima
